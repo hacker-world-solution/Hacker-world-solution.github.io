@@ -1,0 +1,52 @@
+body{
+    background-color:default;
+}
+.caption_1{
+     font-family:sans-serif;
+     font-weight: 6em;
+     font-size: 2em
+}
+.start{
+    background-color: RED;
+    width: 8em;
+    height:3em;
+    color: white
+}
+.dif{
+    color: red;
+    font-weight: 20em
+}
+.float{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 6em;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+.my-float{
+    margin-top: 16px;
+}
+.phone{
+    color: red;
+    padding-left: 2px;
+    padding-right:1em;
+}
+.ph-no{
+    padding-left: 2em;
+    color: white; 
+}
+.ph{
+    color:#D3D3D3
+}
+.copy{
+    color: #D3D3D3;
+    font-size: 13px
+}
